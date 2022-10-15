@@ -94,7 +94,7 @@ The values for given attributes are averaged over all the games played by player
 <hr>
 
 # Solution and Prediction
-[Notebook](./)
+[Notebook](./AI Challenge NBR.ipynb)
 
 # Author
 [Tito Osadebey](https://www.linkedin.com/in/tito-osadebe)
