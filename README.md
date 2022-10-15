@@ -94,7 +94,7 @@ The values for given attributes are averaged over all the games played by player
 <hr>
 
 # Solution and Prediction
-[Notebook](./AI Challenge NBR.ipynb)
+[Notebook](https://github.com/titoausten/NBA-Career-Longevity-Prediction-/blob/main/AI%20Challenge%20NBR.ipynb)
 
 # Author
 [Tito Osadebey](https://www.linkedin.com/in/tito-osadebe)
