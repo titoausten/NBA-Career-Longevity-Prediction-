@@ -91,6 +91,10 @@ The values for given attributes are averaged over all the games played by player
 * Target: 0 if career years played < 5, 1 if career years played >= 5
 
 </p>
+<hr>
 
+# Solution and Prediction
+[Notebook](./)
 
-
+# Author
+[Tito Osadebey](https://www.linkedin.com/in/tito-osadebe)
