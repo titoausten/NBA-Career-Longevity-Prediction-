@@ -1,6 +1,6 @@
 # Career Longevity for NBA Rookies Prediction
 
-<img src="https://github.com/titoausten/NBA-Career-Longevity-Prediction-/download.png" />
+<img src="https://github.com/titoausten/NBA-Career-Longevity-Prediction-/blob/main/download.png" />
 
 <p>
 
